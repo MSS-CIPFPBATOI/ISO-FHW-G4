@@ -22,3 +22,14 @@
 -Se ha añadido la carpeta Scripts_Propios
 
 -Se ha ordenado las capetas y archivos
+
+
+---
+
+---
+
+### V-2810202602
+
+---
+
+-Integrado datos T1-SeleccionSOs
