@@ -1,42 +1,74 @@
-# NOMENCLATURA INVENTARIO PC
+# INVENTARIO PRESTADO PARA EL PROYECTO
 
-## BANCO DE TRABAJO
+  !ULTIMO CAMBIO EL 02/11/2026!
 
-- **SRVCOMM40** : APD - Servidor de Comunicaciones Grupo 4
-[Prueba enlaze pc](PC1-ServidorComunicaciones)
+---
 
-- **45RS40** : PC2 - TrueNAS
+---
 
-- **45AES40** : Tarjeta de red USB
+### COMPUTADORAS
 
-- **45RN40** : Router Mikrotik-Network Grupo 4
+---
 
-- **45RSM40** : Switch TP-Link
+|   MODELO    |    MARCA     | CANTIDAD | ENLACE PROVEEDOR |
+|-------------|--------------|----------|------------------|
+| EXPERTBOOK  |    ASUS      |     6    |n/a               |
+|    ORF1     |      APD     |     1    |n/a               |
+|    ORJ2     |      APD     |     1    |n/a               |
+|   NODOS     |    PROXMOX   |     3    |n/a               |
+| RouterBOARD |   MikroTik   |     1    |n/a               |
+|   Switch    |    TpLink    |     1    |n/a               |
 
-## BANCO DE TRABAJO ACCESORIOS
+---
 
-- **MNT-0140** : Monitor AOC
+---
 
-- **TCL-NN40**  2 Teclado
+### PERIFERICOS
 
-- **RTN-NN40** 2 Raton 
+---
 
-- **C-VGA40** cable VGA
+| PERIFERICO | CANTIDAD | ENLACE PROVEEDOR |
+|------------|----------|------------------|
+|   RATONES  |     8    |n/a               |
+|  TECLADOS  |     2    |n/a               |
+| MONITORES  |     7    |n/a               |
 
-- **C-DVI40** cable DVI
+---
 
-- **CA-IECY40** cable alimentacion IEC en Y
+---
 
-- **CA-IEC40** cable alimentacion IEC
+### ELECTRICO
 
-## MESA PORTATILES
+---
 
-- **hola** 6 portatiles ASUS EXPERTBOOK
- 
-- **hola** 6 cargadores de portatil 65W
+| ELEMENTOS  | CANTIDAD | ENLACE PROVEEDOR |
+|------------|----------|------------------|
+| ALARGADERA |     1    |n/a               |
 
-- **hola** 6 Monitores de extendidas AOC
+---
 
-- **hola** 6 ratolinsc APD
+---
 
-- **hola** un switch TP-Link
+### CABLES DE RED
+
+---
+
+| CATEGORIA   | CANTIDAD | ENLACE PROVEEDOR |
+|-------------|----------|------------------|
+| RJ45 CAT 6  |     6    |n/a               |
+| RJ45 CAT 5  |     2    |n/a               |
+| RJ45 CAT 5e |     4    |n/a               |
+
+
+---
+
+---
+
+### OTROS
+
+---
+
+|  ELEMENTO           | CANTIDAD | ENLACE PROVEEDOR |
+|---------------------|----------|------------------|
+|   SSD 2TB           |     1    |n/a               |
+| ADAPTADOR USB RJ45  |     1    |n/a               |
